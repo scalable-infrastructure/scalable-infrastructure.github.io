@@ -63,7 +63,7 @@ Attendance in all classes is required. Students with more than 3 unexcused absen
 
 It is University policy to provide, on a flexible and individualized basis, reasonable accommodations to students who have disabilities. Students are encouraged to contact Student Disability Services to discuss their individual needs for accommodation. 
 
-##ACADEMIC INTEGRITY STATEMENT 
+## ACADEMIC INTEGRITY STATEMENT 
 
 As members of the Clemson University community, we have inherited Thomas Green Clemson's vision of this institution as a “high seminary of learning.” Fundamental to this vision is a mutual commitment to truthfulness, honor, and responsibility, without which we cannot earn the trust and respect of others. Furthermore, we recognize that academic dishonesty detracts from the value of a Clemson degree. Therefore, we shall not tolerate lying, cheating, or stealing in any form.
 
