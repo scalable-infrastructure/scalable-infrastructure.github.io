@@ -1,0 +1,13 @@
+
+http://industrial-bigdata.github.io/atom.xml
+http://industrial-bigdata.github.io/contact.html
+http://industrial-bigdata.github.io/index.html
+http://industrial-bigdata.github.io/pages.sv
+http://industrial-bigdata.github.io/sitemap.txt
+
+http://industrial-bigdata.github.io/2013/01/11/aenderung-zeit
+http://industrial-bigdata.github.io/2013/01/06/zusammenfassung
+http://industrial-bigdata.github.io/2012/12/22/ausarbeitungen
+http://industrial-bigdata.github.io/2012/12/04/nderung-bungvorlesung-0712
+http://industrial-bigdata.github.io/2012/10/06/themenvergabe
+http://industrial-bigdata.github.io/2012/07/08/new-post
