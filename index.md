@@ -11,8 +11,11 @@ tagline:
 
 **LOCATION:** CGEC Auditorium, Tue & Thu, 10:45 am -12:00 pm
 
-**INSTRUCTOR(S):**  Dr. Yunyi Jia, RM 325 CGEC, yunyij@clemson.edu           
-                                   Dr. Andre Luckow, andreluckow@clemson.edu
+**INSTRUCTOR(S):**  
+
+* Dr. Yunyi Jia, RM 325 CGEC, yunyij@clemson.edu           
+* Dr. Andre Luckow, andreluckow@clemson.edu
+
 **OFFICE HOURS:** Tue & Fri, 12-1 pm
 
 **TEACHING ASSISTANT:** Longxiang Guo, longxig@g.clemson.edu
