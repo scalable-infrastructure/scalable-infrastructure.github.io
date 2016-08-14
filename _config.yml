@@ -11,8 +11,8 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Big Data Infrastructure and Industry Applications.
-tagline: Clemson -- School of Computing
+title : Automotive Electronics Overview.
+tagline: Clemson University International Center for Automotive Research
 author :
   name : Andre Luckow
   email : andreluckow@clemson.edu
