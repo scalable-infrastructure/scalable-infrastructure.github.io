@@ -13,8 +13,8 @@ tagline:
 
 **INSTRUCTOR(S):**  
 
-* Dr. Yunyi Jia, RM 325 CGEC, yunyij@clemson.edu           
-* Dr. Andre Luckow, andreluckow@clemson.edu
+* Dr. Yunyi Jia, RM 325 CGEC, <yunyij@clemson.edu>
+* Dr. Andre Luckow, <andreluckow@clemson.edu>
 
 **OFFICE HOURS:** Tue & Fri, 12-1 pm
 

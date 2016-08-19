@@ -10,8 +10,7 @@ group: navigation
 
 You can contact us:
 
-Dr. Amy Apon, <aapon@clemson.edu>
-
+Dr. Yunyi Jia, <yunyij@clemson.edu>
 Dr. Andre Luckow, <andreluckow@clemson.edu>
 
 
