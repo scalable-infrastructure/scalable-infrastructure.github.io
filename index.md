@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Overview
+title: Data Analytics
 tagline: 
 ---
 {% include JB/setup %}
 
-# Infrastru
+# Infrastructure for Advanced Analytics and Machine Learning
 
 ## Overview
 
@@ -39,7 +39,7 @@ volumes and analytical problems. As part of the exercises students will utilize
 different frameworks, e.g. MapReduce and Spark to implement different
 algorithms.
 
-## COURSE TOPICS:
+## Course Topics:
 
 This class will cover the following topics:
 
@@ -66,14 +66,12 @@ The course will be offered as a block lecture.
 * Schriftliche Prüfung: 50%
 
 
-
-## ATTENDANCE
+## Attendance
 
 Attendance in all classes is required. Students with more than 3 unexcused absences will not receive a passing grade in the class. An unexcused absence is any absence for which the instructor was not notified before the start of the class. If instructor does not show up on-time for class, students are expected to wait at least 15 minutes before leaving.
 
 
-
-## ACADEMIC INTEGRITY STATEMENT 
+## Academic Integrity Statement 
 
 As members of the Clemson University community, we have inherited Thomas Green Clemson's vision of this institution as a “high seminary of learning.” Fundamental to this vision is a mutual commitment to truthfulness, honor, and responsibility, without which we cannot earn the trust and respect of others. Furthermore, we recognize that academic dishonesty detracts from the value of a Clemson degree. Therefore, we shall not tolerate lying, cheating, or stealing in any form.
 
