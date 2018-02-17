@@ -60,8 +60,8 @@ The course will be offered as a block lecture.
 
 ## Material
 
-Course Web Page, <http://www.nm.ifi.lmu.de/teaching/Vorlesungen/2018ss/_data-analytics/>
-Exercises, <https://scalable-infrastructure.github.io/exercise.html> 
+* Course Web Page, <http://www.nm.ifi.lmu.de/teaching/Vorlesungen/2018ss/_data-analytics/>
+* Exercises, <https://scalable-infrastructure.github.io/exercise.html> 
 
 
 ## Attendance
