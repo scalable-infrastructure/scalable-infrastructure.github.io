@@ -1,25 +1,19 @@
 ---
 layout: page
-title: Data Analytics
+title: Infrastructure for Advanced Analytics and Machine Learning
 tagline: 
 ---
 {% include JB/setup %}
 
-# Infrastructure for Advanced Analytics and Machine Learning
-
+## Course Overview
 
 **Location:** LMU Öttingenstr 67, 80538 München
-
 
 **Instructor(S):**  
 
 * Professor Dr. Dieter Kranzlmüller
 * Dr. Andre Luckow, <andre.luckow@ifi.lmu.de>
 * Maximilian Höb, <hoebm@nm.ifi.lmu.de>
-
-
-
-## Course Overview:
 
 The ongoing data deluge driven by the increasing digitalization of science,
 society and industry, leads to a significant increase in demand for data
@@ -66,8 +60,8 @@ The course will be offered as a block lecture.
 
 ## Material
 
-Course Web Page
-Exercises, 
+Course Web Page, <http://www.nm.ifi.lmu.de/teaching/Vorlesungen/2018ss/_data-analytics/>
+Exercises, <https://scalable-infrastructure.github.io/exercise.html> 
 
 
 ## Attendance

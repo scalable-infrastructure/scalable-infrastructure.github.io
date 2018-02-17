@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "In-Class Exercises"
+title: "Exercises"
 description: ""
 ---
 {% include JB/setup %}
@@ -9,16 +9,11 @@ description: ""
 
 # Infrastructure
 
-* Linux Cluster hosted at Amazon EC2
-* Cloudera Cluster (CDH 5.1) running on Ubuntu 12.04
+* We will utilize the LRZ Linux Cluster 
 * Access via SSH (Windows User can use [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html))
-* Python 2.7.3, Python Documentation: <http://docs.python.org/>
-* Hostname: `cloud.luckow-hm.de (54.83.41.227)`
-* HDFS Web: <http://cloud.luckow-hm.de:50070/>
-* YARN Web: <http://cloud.luckow-hm.de:8088/cluster>
-* Cloudera Manager: <http://cloud.luckow-hm.de:7180/>
+* Anaconda/Python 2.7.14, Python Documentation: <http://docs.python.org/>
 
-***Please change your initial password with `passwd`!***
+
 
 <br/>
 
@@ -55,7 +50,7 @@ Run the WordCount example of Hadoop:
 
 <br/>
 
-# 3. Commandline Data Analytics
+# 3. Command-Line Data Analytics
 
 <br/>  
 
@@ -99,7 +94,7 @@ Run the WordCount example of Hadoop:
 
 2. Implement the NASA log file analysis using Spark!
 
-[Solution](src/spark.py)
+<!--[Solution](src/spark.py)-->
 
 <br/>  
 
@@ -122,7 +117,7 @@ Run the WordCount example of Hadoop:
 
 4. Run the same query with Impala!
 
-[Solution](src/sql-hive-solution.txt)
+<!--[Solution](src/sql-hive-solution.txt)-->
 <br/>  
 
 # 6. Data Analytics
@@ -136,7 +131,7 @@ Run the WordCount example of Hadoop:
 
 2. Validate the quality of the model using the sum of the squared error for each point!
 
-[Solution](src/sql-hive-solution.txt)
+<!--[Solution](src/sql-hive-solution.txt)-->
 <br/>
 
 # 7. Hadoop Benchmarking
