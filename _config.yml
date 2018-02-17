@@ -11,11 +11,11 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Automotive Electronics Overview.
-tagline: Clemson University International Center for Automotive Research
+title :  Advanced Analytics and Machine Learning.
+tagline: LMU
 author :
   name : Andre Luckow
-  email : andreluckow@clemson.edu
+  email : andre.luckow@ifi.lmu.de
   github : drelu
   twitter : drelu
   feedburner : n/a
@@ -28,7 +28,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://automotive-electronics.github.io
+production_url : https://scalable-infrastructure.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -57,7 +57,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : https://automotive-electronics.github.io
+  BASE_PATH : https://scalable-infrastructure.github.io
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -101,7 +101,7 @@ JB :
   analytics :
     provider : false 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : false
     getclicky :
       site_id : 
     mixpanel :
