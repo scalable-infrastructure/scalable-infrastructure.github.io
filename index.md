@@ -7,12 +7,11 @@ tagline:
 
 # Infrastructure for Advanced Analytics and Machine Learning
 
-## Overview
 
-**LOCATION:** LMU Öttingenstr 67, 80538 München
+**Location:** LMU Öttingenstr 67, 80538 München
 
 
-**INSTRUCTOR(S):**  
+**Instructor(S):**  
 
 * Professor Dr. Dieter Kranzlmüller
 * Dr. Andre Luckow, <andre.luckow@ifi.lmu.de>
@@ -64,6 +63,11 @@ The course will be offered as a block lecture.
 
 * Abgabe und Dokumentation Übungen: 50%
 * Schriftliche Prüfung: 50%
+
+## Material
+
+Course Web Page
+Exercises, 
 
 
 ## Attendance
