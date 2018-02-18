@@ -2,6 +2,7 @@
 	
 		module load git
 		module load gcc/7
+		module load java/1.8
 		export TMPDIR=/tmp/$USER
 
 * Use project directory as home is small

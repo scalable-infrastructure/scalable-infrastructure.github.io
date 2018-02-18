@@ -20,12 +20,11 @@ description: ""
 
 # 1. Exercise 1: Data on HPC
 
-## 1.1. Using SSH and Linux
 <br/>
 ***Data/Tools***:
 
 * Use an SSH client of your choice (e.g. Putty for Windows or SSH in your Linux/Mac OS Terminal)
-* Daten: <http://ita.ee.lbl.gov/traces/NASA_access_log_Jul95.gz`
+* Daten: <http://ita.ee.lbl.gov/traces/NASA_access_log_Jul95.gz>
 
 
 1. Please login into LRZ Linux Cluster!
@@ -38,10 +37,6 @@ description: ""
     * How many data nodes are used?
 
 1. Upload the file `cloud.luckow-hm.de:/data/NASA_access_log_Jul95` to your HDFS home directory! How many blocks does HDFS allocate for this file? On what host are these blocks?-->
-
-
-## 1.2. Jupyter Notebooks and Data Science Environment
-
 
 1. Start an interactive job and run an interactive Jupyter Notebook
 <br/>
