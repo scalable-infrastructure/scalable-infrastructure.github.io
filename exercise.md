@@ -9,11 +9,7 @@ description: ""
 
 # Infrastructure
 
-* We will utilize the LRZ Linux Cluster:
-
-	* <https://www.lrz.de/services/compute/linux-cluster/>
-	
-	
+* We will utilize the LRZ Linux Cluster: <https://www.lrz.de/services/compute/linux-cluster/>
 * Access via SSH (Windows User can use [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html))
 * Anaconda/Python 2.7.14: <https://www.anaconda.com/download/>
 * Python Documentation: <http://docs.python.org/>
@@ -29,7 +25,7 @@ description: ""
 ***Data/Tools***:
 
 * Use an SSH client of your choice (e.g. Putty for Windows or SSH in your Linux/Mac OS Terminal)
-* Data: `cloud.luckow-hm.de:/data/NASA_access_log_Jul95`
+* Daten: <http://ita.ee.lbl.gov/traces/NASA_access_log_Jul95.gz`
 
 
 1. Please login into LRZ Linux Cluster!
@@ -37,11 +33,12 @@ description: ""
 1. Create keyless log in to the LRZ cluster
 
 
-Answer the following questions using the command (`hadoop dfsadmin -report`):
+<!--Answer the following questions using the command (`hadoop dfsadmin -report`):
     * How big is the Hadoop cluster?
     * How many data nodes are used?
 
-1. Upload the file `cloud.luckow-hm.de:/data/NASA_access_log_Jul95` to your HDFS home directory! How many blocks does HDFS allocate for this file? On what host are these blocks?
+1. Upload the file `cloud.luckow-hm.de:/data/NASA_access_log_Jul95` to your HDFS home directory! How many blocks does HDFS allocate for this file? On what host are these blocks?-->
+
 
 ## 1.2. Jupyter Notebooks and Data Science Environment
 
