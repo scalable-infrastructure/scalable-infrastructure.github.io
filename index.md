@@ -9,7 +9,7 @@ tagline:
 
 **Location:** LMU Öttingenstr 67, 80538 München
 
-**Instructor(S):**  
+**Instructors:**  
 
 * Professor Dr. Dieter Kranzlmüller
 * Dr. Andre Luckow, <andre.luckow@ifi.lmu.de>
@@ -47,11 +47,23 @@ This class will cover the following topics:
 * Hadoop Architectures
 * Data in the Cloud: Elastic MapReduce, Azure HDInsight, Google Cloud Dataflow
 * Advanced Analytics and Machine Learning (Apache Mahout, MLLib)
-* Graph Processing Frameworks (Networkx, Graphx, Titan, GraphLab, Giraph)
+* Graph Processing Frameworks (NetworkX)
 * Natural Language Processing
 * Deep Learning: Convolutional Neural Networks
 
 The course will be offered as a block lecture.
+
+## Pre-Requisites:
+
+* Linux
+* Python 
+* HPC course or equivalent experience
+
+## Time:
+
+The course will be given as a block lecture from April 3 - 7, 2018.
+
+
 
 ## Notenvergabe
 

@@ -9,15 +9,22 @@ description: ""
 
 # Infrastructure
 
-* We will utilize the LRZ Linux Cluster 
+* We will utilize the LRZ Linux Cluster:
+
+	* <https://www.lrz.de/services/compute/linux-cluster/>
+	
+	
 * Access via SSH (Windows User can use [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html))
-* Anaconda/Python 2.7.14, Python Documentation: <http://docs.python.org/>
+* Anaconda/Python 2.7.14: <https://www.anaconda.com/download/>
+* Python Documentation: <http://docs.python.org/>
 
 
 
 <br/>
 
-# 1. Using SSH and Linux
+# 1. Exercise 1: Data on HPC
+
+## 1.1. Using SSH and Linux
 <br/>
 ***Data/Tools***:
 
@@ -25,32 +32,27 @@ description: ""
 * Data: `cloud.luckow-hm.de:/data/NASA_access_log_Jul95`
 
 
-1. Please login into the Hadoop cluster on Amazon!
+1. Please login into LRZ Linux Cluster!
 
-1. Answer the following questions using the command (`hadoop dfsadmin -report`):
+1. Create keyless log in to the LRZ cluster
+
+
+Answer the following questions using the command (`hadoop dfsadmin -report`):
     * How big is the Hadoop cluster?
     * How many data nodes are used?
 
 1. Upload the file `cloud.luckow-hm.de:/data/NASA_access_log_Jul95` to your HDFS home directory! How many blocks does HDFS allocate for this file? On what host are these blocks?
 
+## 1.2. Jupyter Notebooks and Data Science Environment
+
+
+1. Start an interactive job and run an interactive Jupyter Notebook
 <br/>
 
-# 2. MapReduce Hello World
 
-<br/>
+# 2. Exercise 2: MapReduce
 
-***Data/Tools***:
-
-* MapReduce Application: `hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar wordcount`
-
-Run the WordCount example of Hadoop:
-
-1. Create two test files containing text and upload them to HDFS!
-1. Use the MapReduce program WordCount for processing these files!
-
-<br/>
-
-# 3. Command-Line Data Analytics
+# 2.1 Command-Line Data Analytics
 
 <br/>  
 
@@ -78,9 +80,25 @@ Run the WordCount example of Hadoop:
 
 <br/>
 
+# 2.2 MapReduce Hello World
 
+<br/>
 
-# 4. Spark
+***Data/Tools***:
+
+* MapReduce Application: `hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar wordcount`
+
+Run the WordCount example of Hadoop:
+
+1. Create two test files containing text and upload them to HDFS!
+1. Use the MapReduce program WordCount for processing these files!
+
+<br/>
+
+---
+
+# 3. Exercise 3: Spark
+## 3.1 Spark
 <br/>  
 ***Data/Tools***:
 
@@ -98,7 +116,11 @@ Run the WordCount example of Hadoop:
 
 <br/>  
 
-# 5. Hadoop SQL Engines
+
+
+---
+
+# 4. SQL Engines
 <br/>  
 ***Data/Tools***:
 
